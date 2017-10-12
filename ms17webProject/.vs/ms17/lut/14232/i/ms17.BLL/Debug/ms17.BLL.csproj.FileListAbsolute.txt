@@ -1,0 +1,5 @@
+D:\ms17\.vs\ms17\lut\0\b\ms17.BLL\bin\Debug\ms17.BLL.dll
+D:\ms17\.vs\ms17\lut\0\b\ms17.BLL\bin\Debug\ms17.BLL.pdb
+D:\ms17\.vs\ms17\lut\0\i\ms17.BLL\Debug\ms17.BLL.csproj.CoreCompileInputs.cache
+D:\ms17\.vs\ms17\lut\0\i\ms17.BLL\Debug\ms17.BLL.dll
+D:\ms17\.vs\ms17\lut\0\i\ms17.BLL\Debug\ms17.BLL.pdb

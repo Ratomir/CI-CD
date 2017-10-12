@@ -1,0 +1,9 @@
+D:\ms17\.vs\ms17\lut\0\b\ms17.DAL\bin\Debug\ms17.DAL.dll.config
+D:\ms17\.vs\ms17\lut\0\b\ms17.DAL\bin\Debug\ms17.DAL.dll
+D:\ms17\.vs\ms17\lut\0\b\ms17.DAL\bin\Debug\ms17.DAL.pdb
+D:\ms17\.vs\ms17\lut\0\i\ms17.DAL\Debug\ms17.DAL.csprojResolveAssemblyReference.cache
+D:\ms17\.vs\ms17\lut\0\i\ms17.DAL\Debug\ms17.DAL.Migrations.Identity.resources
+D:\ms17\.vs\ms17\lut\0\i\ms17.DAL\Debug\ms17.DAL.csproj.GenerateResource.Cache
+D:\ms17\.vs\ms17\lut\0\i\ms17.DAL\Debug\ms17.DAL.csproj.CoreCompileInputs.cache
+D:\ms17\.vs\ms17\lut\0\i\ms17.DAL\Debug\ms17.DAL.dll
+D:\ms17\.vs\ms17\lut\0\i\ms17.DAL\Debug\ms17.DAL.pdb

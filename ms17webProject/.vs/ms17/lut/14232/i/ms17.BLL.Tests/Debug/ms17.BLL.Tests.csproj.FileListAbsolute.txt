@@ -1,0 +1,11 @@
+D:\ms17\.vs\ms17\lut\0\b\ms17.BLL.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+D:\ms17\.vs\ms17\lut\0\b\ms17.BLL.Tests\bin\Debug\xunit.runner.utility.net35.dll
+D:\ms17\.vs\ms17\lut\0\b\ms17.BLL.Tests\bin\Debug\xunit.runner.reporters.net452.dll
+D:\ms17\.vs\ms17\lut\0\b\ms17.BLL.Tests\bin\Debug\xunit.abstractions.dll
+D:\ms17\.vs\ms17\lut\0\b\ms17.BLL.Tests\bin\Debug\ms17.BLL.Tests.dll.config
+D:\ms17\.vs\ms17\lut\0\b\ms17.BLL.Tests\bin\Debug\ms17.BLL.Tests.dll
+D:\ms17\.vs\ms17\lut\0\b\ms17.BLL.Tests\bin\Debug\ms17.BLL.Tests.pdb
+D:\ms17\.vs\ms17\lut\0\i\ms17.BLL.Tests\Debug\ms17.BLL.Tests.csprojResolveAssemblyReference.cache
+D:\ms17\.vs\ms17\lut\0\i\ms17.BLL.Tests\Debug\ms17.BLL.Tests.csproj.CoreCompileInputs.cache
+D:\ms17\.vs\ms17\lut\0\i\ms17.BLL.Tests\Debug\ms17.BLL.Tests.dll
+D:\ms17\.vs\ms17\lut\0\i\ms17.BLL.Tests\Debug\ms17.BLL.Tests.pdb

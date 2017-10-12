@@ -1,0 +1,11 @@
+D:\ms17\ms17.BLL\bin\Debug\ms17.BLL.dll
+D:\ms17\ms17.BLL\bin\Debug\ms17.BLL.pdb
+D:\ms17\ms17.BLL\bin\Debug\ms17.DAL.dll
+D:\ms17\ms17.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\ms17\ms17.BLL\bin\Debug\ms17.DAL.pdb
+D:\ms17\ms17.BLL\bin\Debug\ms17.DAL.dll.config
+D:\ms17\ms17.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\ms17\ms17.BLL\obj\Debug\ms17.BLL.csprojResolveAssemblyReference.cache
+D:\ms17\ms17.BLL\obj\Debug\ms17.BLL.csproj.CoreCompileInputs.cache
+D:\ms17\ms17.BLL\obj\Debug\ms17.BLL.dll
+D:\ms17\ms17.BLL\obj\Debug\ms17.BLL.pdb

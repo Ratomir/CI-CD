@@ -1,0 +1,17 @@
+D:\ms17\ms17.DAL\bin\Debug\ms17.DAL.dll.config
+D:\ms17\ms17.DAL\bin\Debug\ms17.DAL.dll
+D:\ms17\ms17.DAL\bin\Debug\ms17.DAL.pdb
+D:\ms17\ms17.DAL\bin\Debug\EntityFramework.dll
+D:\ms17\ms17.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ms17\ms17.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\ms17\ms17.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ms17\ms17.DAL\bin\Debug\EntityFramework.xml
+D:\ms17\ms17.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ms17\ms17.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\ms17\ms17.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ms17\ms17.DAL\obj\Debug\ms17.DAL.Migrations.Identity.resources
+D:\ms17\ms17.DAL\obj\Debug\ms17.DAL.csproj.GenerateResource.Cache
+D:\ms17\ms17.DAL\obj\Debug\ms17.DAL.csproj.CoreCompileInputs.cache
+D:\ms17\ms17.DAL\obj\Debug\ms17.DAL.dll
+D:\ms17\ms17.DAL\obj\Debug\ms17.DAL.pdb
+D:\ms17\ms17.DAL\obj\Debug\ms17.DAL.csprojResolveAssemblyReference.cache

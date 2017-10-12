@@ -1,0 +1,44 @@
+﻿@model IEnumerable<ms17.DAL.Comment>
+
+<h3>Comments</h3>
+
+@using (Ajax.BeginForm("_CommentsForPhoto",
+                                    new { PhotoId = ViewBag.PhotoId },
+                                    new AjaxOptions { UpdateTargetId = "comments-tool" }))
+{
+
+    <div id="comments-tool">
+        <div id="all-comments">
+            @foreach (var item in Model)
+            {
+                <div class="photo-comment">
+
+                    <div class="form-group">
+                        <label>From:</label>
+                        @Html.DisplayFor(modelItem => item.UserName)
+                    </div>
+
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">@Html.DisplayFor(modelItem => item.Subject)</h3>
+                        </div>
+                        <div class="panel-body">
+                            <p class="comment">
+                                @Html.DisplayFor(modelItem => item.Body)
+                            </p>
+                            <div>
+                                @Html.ActionLink("Delete This Comment", "Delete", new { id = item.CommentID }, new { @class = "btn btn-warning" })
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            }
+        </div>
+
+        <div id="addcomment" class="add-comment-box">
+            @Html.Action("_Create", "Comment", new { PhotoID = ViewBag.PhotoId })
+        </div>
+    </div>
+}
